@@ -1,0 +1,1 @@
+Documentation: [http://correlatorsharp.github.io/dotnet/NLog.html](http://correlatorsharp.github.io/dotnet/NLog.html)
